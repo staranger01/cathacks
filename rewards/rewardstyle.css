@@ -1,0 +1,559 @@
+.mediaViewInfo {
+	--web-view-name: Initiatives – 16;
+	--web-view-id: Initiatives___16;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Initiatives___16;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Initiatives___16 {
+	position: absolute;
+	width: 1920px;
+	height: 3691px;
+	background-color: rgba(234,234,234,1);
+	overflow: hidden;
+	--web-view-name: Initiatives – 16;
+	--web-view-id: Initiatives___16;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Collectr {
+	position: absolute;
+	left: 81px;
+	top: 98px;
+	overflow: visible;
+	width: 360px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Landing_Page.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 90px;
+	color: rgba(0,0,0,1);
+}
+#Contact_Us_ {
+	position: absolute;
+	left: 1223px;
+	top: 140px;
+	overflow: visible;
+	width: 194px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_6 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 261px;
+	height: 113px;
+	left: 1611px;
+	top: 113px;
+}
+#unnamed__2_ {
+	position: absolute;
+	width: 53px;
+	height: 43px;
+	left: 1455px;
+	top: 139px;
+	overflow: visible;
+}
+#Order_Now {
+	position: absolute;
+	left: 1651px;
+	top: 143px;
+	overflow: visible;
+	width: 164px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 29px;
+	color: rgba(255,255,255,1);
+}
+#Initiatives_ {
+	position: absolute;
+	left: 1030px;
+	top: 140px;
+	overflow: visible;
+	width: 169px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Initiatives.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#twitter_512 {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 1455px;
+	top: 134px;
+	overflow: visible;
+}
+#a5a291a77c53e4e1c67a475e3fb5a3 {
+	position: absolute;
+	width: 54px;
+	height: 54px;
+	left: 1533px;
+	top: 133px;
+	overflow: visible;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 600px;
+	left: 0px;
+	top: 3095px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#About_ {
+	position: absolute;
+	left: 896px;
+	top: 139px;
+	overflow: visible;
+	width: 110px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: About.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#Your_Rewards {
+	position: absolute;
+	left: 135px;
+	top: 393px;
+	overflow: visible;
+	width: 344px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+#COLLECTR_ {
+	position: absolute;
+	left: 83px;
+	top: 3205px;
+	overflow: visible;
+	width: 244px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(255,255,255,1);
+}
+#_ {
+	position: absolute;
+	left: 83px;
+	top: 3343px;
+	overflow: visible;
+	width: 1px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#_555__555_5555_ {
+	position: absolute;
+	left: 83px;
+	top: 3454px;
+	overflow: visible;
+	width: 243px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#New_York__NY_12345_ {
+	position: absolute;
+	left: 83px;
+	top: 3385px;
+	overflow: visible;
+	width: 339px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#Group_3 {
+	position: absolute;
+	width: 204px;
+	height: 335px;
+	left: 1162px;
+	top: 3205px;
+	overflow: visible;
+}
+#Our_Work_ {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 179px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#About__bg {
+	position: absolute;
+	left: 0px;
+	top: 113px;
+	overflow: visible;
+	width: 110px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: About.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	text-decoration: true;
+}
+#Initiatives__bh {
+	position: absolute;
+	left: 0px;
+	top: 180px;
+	overflow: visible;
+	width: 169px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Initiatives.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	text-decoration: true;
+}
+#Take_Action_ {
+	position: absolute;
+	left: 0px;
+	top: 249px;
+	overflow: visible;
+	width: 205px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	text-decoration: true;
+}
+#Group_4 {
+	position: absolute;
+	width: 171px;
+	height: 335px;
+	left: 1509px;
+	top: 3205px;
+	overflow: visible;
+}
+#Follow_ {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#Twitter_ {
+	position: absolute;
+	left: 0px;
+	top: 113px;
+	overflow: visible;
+	width: 123px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	text-decoration: true;
+}
+#Linkedin_ {
+	position: absolute;
+	left: 0px;
+	top: 180px;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	text-decoration: true;
+}
+#Facebook_ {
+	position: absolute;
+	left: 0px;
+	top: 249px;
+	overflow: visible;
+	width: 172px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	text-decoration: true;
+}
+#ID123_Demo_Street_ {
+	position: absolute;
+	left: 83px;
+	top: 3318px;
+	overflow: visible;
+	width: 287px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+.Rectangle_21 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1668px;
+	height: 2101px;
+	left: 135px;
+	top: 605px;
+}
+#Your_rewards_are_based_on_the_ {
+	position: absolute;
+	left: 226px;
+	top: 688px;
+	overflow: visible;
+	width: 1385px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+#coin__3_ {
+	position: absolute;
+	width: 393px;
+	height: 393px;
+	left: 197px;
+	top: 929px;
+	overflow: visible;
+}
+#You_have_931_COVID_Coins__ {
+	position: absolute;
+	left: 660.5px;
+	top: 1101.5px;
+	overflow: visible;
+	width: 1063px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 79px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_30 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 621px;
+	height: 577px;
+	left: 1013px;
+	top: 1432px;
+}
+.Rectangle_31 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 621px;
+	height: 577px;
+	left: 226px;
+	top: 1432px;
+}
+#amazon__2_ {
+	position: absolute;
+	width: 283px;
+	height: 283px;
+	left: 386px;
+	top: 1570px;
+	overflow: visible;
+}
+#google_play_services_png_logo_ {
+	position: absolute;
+	width: 424px;
+	height: 444px;
+	left: 1119px;
+	top: 1490px;
+	overflow: visible;
+}
+#_10_ {
+	position: absolute;
+	left: 475.5px;
+	top: 2016.5px;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 64px;
+	color: rgba(0,0,0,1);
+}
+#_10 {
+	position: absolute;
+	left: 1262.5px;
+	top: 2016.5px;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 64px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_32 {
+	position: absolute;
+	overflow: visible;
+	width: 964px;
+	height: 226px;
+	left: 443px;
+	top: 2286px;
+}
+#Comfirm_Purchase {
+	position: absolute;
+	left: 636px;
+	top: 2362px;
+	overflow: visible;
+	width: 579px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 61px;
+	color: rgba(255,255,255,1);
+}
+#ID900 {
+	position: absolute;
+	left: 723.5px;
+	top: 1468.5px;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}
+#coin__3__b {
+	position: absolute;
+	width: 64px;
+	height: 64px;
+	left: 640px;
+	top: 1458px;
+	overflow: visible;
+}
+#coin__3__ca {
+	position: absolute;
+	width: 64px;
+	height: 64px;
+	left: 1450px;
+	top: 1458px;
+	overflow: visible;
+}
+#ID900_b {
+	position: absolute;
+	left: 1533.5px;
+	top: 1468.5px;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+}

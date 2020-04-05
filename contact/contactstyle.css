@@ -1,0 +1,673 @@
+body, html {
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    overflow-x: hidden;
+}
+
+.mediaViewInfo {
+    --web-view-name: Initiatives – 1;
+    --web-view-id: Initiatives___1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+
+:root {
+    --web-view-ids: Initiatives___1;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+
+#Initiatives___1 {
+    position: absolute;
+    width: 1920px;
+    height: 1803px;
+    background-color: rgba(255, 255, 255, 1);
+    overflow: hidden;
+    --web-view-name: Initiatives – 1;
+    --web-view-id: Initiatives___1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+
+@keyframes fadein {
+
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+
+}
+
+#Collectr {
+    position: absolute;
+    left: 81px;
+    top: 98px;
+    overflow: visible;
+    width: 360px;
+    white-space: nowrap;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: page;
+    --web-action-target: Landing_Page.html;
+    cursor: pointer;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 90px;
+    color: rgba(0, 0, 0, 1);
+}
+
+#About_ {
+    position: absolute;
+    left: 151px;
+    top: 1332px;
+    overflow: visible;
+    width: 110px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(205, 192, 192, 0.541);
+}
+
+#Contact_Us_ {
+    position: absolute;
+    left: 1223px;
+    top: 140px;
+    overflow: visible;
+    width: 194px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Rectangle_6 {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 261px;
+    height: 113px;
+    left: 1611px;
+    top: 113px;
+}
+
+#Order_Now {
+    position: absolute;
+    left: 1651px;
+    top: 143px;
+    overflow: visible;
+    width: 164px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 29px;
+    color: rgba(255, 255, 255, 1);
+}
+
+#Initiatives_ {
+    position: absolute;
+    left: 1030px;
+    top: 140px;
+    overflow: visible;
+    width: 169px;
+    white-space: nowrap;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: page;
+    --web-action-target: Initiatives.html;
+    cursor: pointer;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(0, 0, 0, 1);
+}
+
+#Contact_Us {
+    position: absolute;
+    left: 83px;
+    top: 384px;
+    overflow: visible;
+    width: 454px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;
+    color: rgba(0, 0, 0, 1);
+}
+
+#Twitter_Icon1 {
+    position: absolute;
+    width: 53px;
+    height: 53px;
+    left: 1455px;
+    top: 134px;
+    overflow: visible;
+}
+
+#Instagram_Icon1 {
+    position: absolute;
+    width: 54px;
+    height: 54px;
+    left: 1533px;
+    top: 133px;
+    overflow: visible;
+}
+
+.Path_1 {
+    overflow: visible;
+    position: absolute;
+    width: 1920px;
+    height: 600px;
+    left: 0px;
+    top: 1203px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#About__dd {
+    position: absolute;
+    left: 896px;
+    top: 139px;
+    overflow: visible;
+    width: 110px;
+    white-space: nowrap;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: page;
+    --web-action-target: About.html;
+    cursor: pointer;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(0, 0, 0, 1);
+}
+
+#COLLECTR_ {
+    position: absolute;
+    left: 83px;
+    top: 1308px;
+    overflow: visible;
+    width: 244px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 45px;
+    color: rgba(255, 255, 255, 1);
+}
+
+#_ {
+    position: absolute;
+    left: 83px;
+    top: 1451px;
+    overflow: visible;
+    width: 1px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(255, 255, 255, 1);
+}
+
+#_555__555_5555_ {
+    position: absolute;
+    left: 83px;
+    top: 1562px;
+    overflow: visible;
+    width: 243px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(255, 255, 255, 1);
+}
+
+#New_York__NY_12345_ {
+    position: absolute;
+    left: 83px;
+    top: 1493px;
+    overflow: visible;
+    width: 339px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(255, 255, 255, 1);
+}
+
+#A_better_future_is_possible__C {
+    position: absolute;
+    left: 83px;
+    top: 578px;
+    overflow: visible;
+    width: 700px;
+    white-space: nowrap;
+    line-height: 60px;
+    margin-top: -18px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(0, 0, 0, 1);
+}
+
+#Group_3 {
+    position: absolute;
+    width: 204px;
+    height: 335px;
+    left: 1162px;
+    top: 1313px;
+    overflow: visible;
+}
+
+#Our_Work_ {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 179px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(255, 255, 255, 1);
+}
+
+#About__dl {
+    position: absolute;
+    left: 0px;
+    top: 113px;
+    overflow: visible;
+    width: 110px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(255, 255, 255, 1);
+    text-decoration: true;
+}
+
+#Initiatives__dm {
+    position: absolute;
+    left: 0px;
+    top: 180px;
+    overflow: visible;
+    width: 169px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(255, 255, 255, 1);
+    text-decoration: true;
+}
+
+#Take_Action_ {
+    position: absolute;
+    left: 0px;
+    top: 249px;
+    overflow: visible;
+    width: 205px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(255, 255, 255, 1);
+    text-decoration: true;
+}
+
+#Group_4 {
+    position: absolute;
+    width: 171px;
+    height: 335px;
+    left: 1509px;
+    top: 1313px;
+    overflow: visible;
+}
+
+#Follow_ {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 122px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(255, 255, 255, 1);
+}
+
+#Twitter_ {
+    position: absolute;
+    left: 0px;
+    top: 113px;
+    overflow: visible;
+    width: 123px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(255, 255, 255, 1);
+    text-decoration: true;
+}
+
+#Linkedin_ {
+    position: absolute;
+    left: 0px;
+    top: 180px;
+    overflow: visible;
+    width: 153px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(255, 255, 255, 1);
+    text-decoration: true;
+}
+
+#Facebook_ {
+    position: absolute;
+    left: 0px;
+    top: 249px;
+    overflow: visible;
+    width: 172px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(255, 255, 255, 1);
+    text-decoration: true;
+}
+
+#ID123_Demo_Street_ {
+    position: absolute;
+    left: 83px;
+    top: 1426px;
+    overflow: visible;
+    width: 287px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(255, 255, 255, 1);
+}
+
+#sohil_a_hotmail_com {
+    position: absolute;
+    left: 85px;
+    top: 725px;
+    overflow: visible;
+    width: 260px;
+    white-space: nowrap;
+    line-height: 75px;
+    margin-top: -25.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(0, 0, 0, 1);
+}
+
+#_555__555_5555 {
+    position: absolute;
+    left: 83px;
+    top: 774px;
+    overflow: visible;
+    width: 167px;
+    white-space: nowrap;
+    line-height: 75px;
+    margin-top: -25.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(0, 0, 0, 1);
+}
+
+#Email_ {
+    position: absolute;
+    left: 921px;
+    top: 629px;
+    overflow: visible;
+    width: 79px;
+    white-space: nowrap;
+    line-height: 75px;
+    margin-top: -25.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(0, 0, 0, 1);
+}
+
+#New_York__NY_12345 {
+    position: absolute;
+    left: 85px;
+    top: 909px;
+    overflow: visible;
+    width: 233px;
+    white-space: nowrap;
+    line-height: 75px;
+    margin-top: -25.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(0, 0, 0, 1);
+}
+
+#Twitter_Icon2 {
+    position: absolute;
+    width: 38px;
+    height: 38px;
+    left: 85px;
+    top: 979px;
+    overflow: visible;
+}
+
+#Instagram_Icon2 {
+    position: absolute;
+    width: 38px;
+    height: 38px;
+    left: 136px;
+    top: 979px;
+    overflow: visible;
+}
+
+.Rectangle_9 {
+    position: absolute;
+    overflow: visible;
+    width: 444px;
+    height: 82px;
+    left: 918px;
+    top: 440px;
+}
+
+.Rectangle_10 {
+    position: absolute;
+    overflow: visible;
+    width: 444px;
+    height: 82px;
+    left: 1410px;
+    top: 440px;
+}
+
+#ID123_Demo_Street {
+    position: absolute;
+    left: 85px;
+    top: 844px;
+    overflow: visible;
+    width: 197px;
+    white-space: nowrap;
+    line-height: 75px;
+    margin-top: -25.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(0, 0, 0, 1);
+}
+
+#Name_ {
+    position: absolute;
+    left: 918px;
+    top: 395px;
+    overflow: visible;
+    width: 83px;
+    white-space: nowrap;
+    line-height: 75px;
+    margin-top: -25.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(0, 0, 0, 1);
+}
+
+#Last_Name {
+    position: absolute;
+    left: 1416px;
+    top: 538px;
+    overflow: visible;
+    width: 131px;
+    white-space: nowrap;
+    line-height: 75px;
+    margin-top: -25.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Rectangle_11 {
+    position: absolute;
+    overflow: visible;
+    width: 936px;
+    height: 82px;
+    left: 918px;
+    top: 672px;
+}
+
+#First_Name {
+    position: absolute;
+    left: 918px;
+    top: 538px;
+    overflow: visible;
+    width: 133px;
+    white-space: nowrap;
+    line-height: 75px;
+    margin-top: -25.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Rectangle_12 {
+    position: absolute;
+    overflow: visible;
+    width: 936px;
+    height: 115px;
+    left: 918px;
+    top: 846px;
+}
+
+#Message__ {
+    position: absolute;
+    left: 921px;
+    top: 803px;
+    overflow: visible;
+    width: 123px;
+    white-space: nowrap;
+    line-height: 75px;
+    margin-top: -25.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Rectangle_5 {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 190px;
+    height: 102px;
+    left: 921px;
+    top: 983px;
+}
+
+#Send {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    left: 975.5px;
+    top: 1010.5px;
+    overflow: visible;
+    width: 61px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 23px;
+    color: rgba(255, 255, 255, 1);
+}

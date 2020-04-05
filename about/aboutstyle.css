@@ -1,0 +1,233 @@
+body, html {
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    overflow-x: hidden;
+}
+
+.mediaViewInfo {
+	--web-view-name: About;
+	--web-view-id: About;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: About;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#About {
+	position: absolute;
+	width: 1920px;
+	height: 2795px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: About;
+	--web-view-id: About;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Collectr_bt {
+	position: absolute;
+	left: 83px;
+	top: 88px;
+	overflow: visible;
+	width: 439px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Landing_Page.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 110px;
+	color: rgba(255,255,255,1);
+}
+#Woods_Image {
+	position: absolute;
+	width: 1920px;
+	height: 1282px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Collectr_bt {
+	position: absolute;
+	left: 83px;
+	top: 88px;
+	overflow: visible;
+	width: 439px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Landing_Page.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 110px;
+	color: rgba(255,255,255,1);
+}
+#About_ {
+	position: absolute;
+	left: 896px;
+	top: 139px;
+	overflow: visible;
+	width: 110px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#Contact_Us_ {
+	position: absolute;
+	left: 1223px;
+	top: 140px;
+	overflow: visible;
+	width: 194px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Initiatives___1.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+.Rectangle_6 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 261px;
+	height: 113px;
+	left: 1611px;
+	top: 113px;
+}
+#Twitter_Icon {
+	position: absolute;
+	width: 53px;
+	height: 43px;
+	left: 1455px;
+	top: 139px;
+	overflow: visible;
+}
+#Instagram_Icon {
+	position: absolute;
+	width: 107px;
+	height: 69px;
+	left: 1504px;
+	top: 127px;
+	overflow: visible;
+}
+#Order_Now {
+	position: absolute;
+	left: 1651px;
+	top: 143px;
+	overflow: visible;
+	width: 164px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 29px;
+	color: rgba(0,0,0,1);
+}
+#Initiatives_ {
+	position: absolute;
+	left: 1030px;
+	top: 140px;
+	overflow: visible;
+	width: 169px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#Since_the_Coronavirus_first_em {
+	position: absolute;
+	left: 97px;
+	top: 356px;
+	overflow: visible;
+	width: 1724px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 90px;
+	color: rgba(255,255,255,1);
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 648px;
+	left: 0px;
+	top: 864px;
+}
+#This_website_is_built_for_your {
+	position: absolute;
+	left: 105px;
+	top: 1092px;
+	overflow: visible;
+	width: 1711px;
+	white-space: nowrap;
+	line-height: 75px;
+	margin-top: -17px;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 41px;
+	color: rgba(0,0,0,1);
+}
+#Group_Image {
+	position: absolute;
+	width: 974px;
+	height: 853px;
+	left: 393px;
+	top: 1764px;
+	overflow: visible;
+}
+#What_it_is_ {
+	position: absolute;
+	left: 97px;
+	top: 928px;
+	overflow: visible;
+	width: 467px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 90px;
+	color: rgba(0,0,0,1);
+}

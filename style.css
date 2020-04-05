@@ -1,0 +1,341 @@
+body, html {
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    overflow-x: hidden;
+}
+ 
+  .mediaViewInfo {
+      --web-view-name: Landing Page;
+      --web-view-id: Landing_Page;
+      --web-scale-on-resize: true;
+      --web-enable-deep-linking: true;
+  }
+  :root {
+      --web-view-ids: Landing_Page;
+  }
+  * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      border: none;
+  }
+  
+  #First_Image {
+      position: absolute;
+      width: 2141.5px;
+      height: 1417.5px;
+      left: -221px;
+      top: 0px;
+      overflow: visible;
+  }
+  #Collectr_j {
+      position: absolute;
+      left: 80px;
+      top: 80px;
+      overflow: visible;
+      width: 439px;
+      white-space: nowrap;
+      text-align: left;
+      font-family: 'Montserrat', sans-serif;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 110px;
+      color: rgba(255,255,255,1);
+  }
+  #Changing_the_world_is__possibl {
+      position: absolute;
+      left: 148px;
+      top: 1785px;
+      overflow: visible;
+      width: 923px;
+      white-space: nowrap;
+      text-align: left;
+      font-family: 'Montserrat', sans-serif;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 70px;
+      color: rgba(0,0,0,1);
+  }
+  #About_ {
+      position: absolute;
+      left: 896px;
+      top: 139px;
+      overflow: visible;
+      width: 110px;
+      white-space: nowrap;
+      text-align: left;
+      font-family: 'Montserrat', sans-serif;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 35px;
+      color: rgba(255,255,255,1);
+  }
+  #Initiatives_ {
+      position: absolute;
+      left: 1036px;
+      top: 139px;
+      overflow: visible;
+      width: 169px;
+      white-space: nowrap;
+      text-align: left;
+      font-family: 'Montserrat', sans-serif;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 35px;
+      color: rgba(255,255,255,1);
+  }
+  #Contact_Us_ {
+      position: absolute;
+      left: 1236px;
+      top: 139px;
+      overflow: visible;
+      width: 194px;
+      white-space: nowrap;
+      text-align: left;
+      font-family: 'Montserrat', sans-serif;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 35px;
+      color: rgba(255,255,255,1);
+  }
+  .Rectangle_1 {
+      filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+      position: absolute;
+      overflow: visible;
+      width: 261px;
+      height: 113px;
+      left: 1617px;
+      top: 119px;
+  }
+  #Twitter_Icon {
+      position: absolute;
+      width: 53px;
+      height: 43px;
+      left: 1461px;
+      top: 140px;
+      overflow: visible;
+  }
+  #Instagram_Icon {
+      position: absolute;
+      width: 107px;
+      height: 69px;
+      left: 1510px;
+      top: 128px;
+      overflow: visible;
+  }
+  #Order_Now {
+      position: absolute;
+      left: 1657px;
+      top: 149px;
+      overflow: visible;
+      width: 164px;
+      white-space: nowrap;
+      text-align: left;
+      font-family: 'Montserrat', sans-serif;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 29px;
+      color: rgba(0,0,0,1);
+  }
+  .Rectangle_2 {
+      position: absolute;
+      overflow: visible;
+      width: 399px;
+      height: 162px;
+      left: 80px;
+      top: 805px;
+  }
+  #Learn_More {
+      position: absolute;
+      left: 198px;
+      top: 869px;
+      overflow: visible;
+      width: 170px;
+      white-space: nowrap;
+      text-align: left;
+      font-family: 'Montserrat', sans-serif;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 29px;
+      color: rgba(0,0,0,1);
+  }
+  .Rectangle_3 {
+      position: absolute;
+      overflow: visible;
+      width: 1938px;
+      height: 480px;
+      left: 0px;
+      top: 1075px;
+  }
+  #Coronavirus_threatens_every_pa {
+      position: absolute;
+      left: 148px;
+      top: 1206px;
+      overflow: visible;
+      width: 849px;
+      white-space: nowrap;
+      text-align: left;
+      font-family: 'Montserrat', sans-serif;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 55px;
+      color: rgba(0,0,0,1);
+  }
+  #This_is_a_movement_of_billions {
+      position: absolute;
+      left: 784px;
+      top: 2901px;
+      overflow: visible;
+      width: 998px;
+      white-space: nowrap;
+      text-align: left;
+      font-family: 'Montserrat', sans-serif;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 42px;
+      color: rgba(0,0,0,1);
+  }
+  #Getting_food_in_the_hands_of_e {
+      position: absolute;
+      left: 80px;
+      top: 504px;
+      overflow: visible;
+      width: 1172px;
+      white-space: nowrap;
+      text-align: left;
+      font-family: 'Montserrat', sans-serif;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 90px;
+      color: rgba(255,255,255,1);
+  }
+  #Our_mission_is_to_create_a__pl {
+      position: absolute;
+      left: 1152px;
+      top: 1206px;
+      overflow: visible;
+      width: 588px;
+      white-space: nowrap;
+      text-align: left;
+      font-family: 'Montserrat', sans-serif;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 42px;
+      color: rgba(0,0,0,1);
+  }
+  .Rectangle_4 {
+      filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+      position: absolute;
+      overflow: visible;
+      width: 417px;
+      height: 180px;
+      left: 148px;
+      top: 2403px;
+  }
+  #Learn_More_ {
+      filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+      position: absolute;
+      left: 225.5px;
+      top: 2458.5px;
+      overflow: visible;
+      width: 245px;
+      white-space: nowrap;
+      text-align: left;
+      font-family: 'Montserrat', sans-serif;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 42px;
+      color: rgba(255,255,255,1);
+  }
+  #People_Image {
+      position: absolute;
+      width: 725px;
+      height: 460px;
+      left: 1089px;
+      top: 1785px;
+      overflow: visible;
+  }
+  #Running_Image {
+      position: absolute;
+      width: 665px;
+      height: 665px;
+      left: 65px;
+      top: 2714px;
+      overflow: visible;
+  }
+  #Ready_to_take_the_next_step_ {
+      position: absolute;
+      left: 784px;
+      top: 2753px;
+      overflow: visible;
+      width: 1031px;
+      white-space: nowrap;
+      text-align: left;
+      font-family: 'Montserrat', sans-serif;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 70px;
+      color: rgba(0,0,0,1);
+  }
+  #Our_hardworking_team_has_worke {
+      position: absolute;
+      left: 148px;
+      top: 2119px;
+      overflow: visible;
+      width: 756px;
+      white-space: nowrap;
+      text-align: left;
+      font-family: 'Montserrat', sans-serif;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 42px;
+      color: rgba(0,0,0,1);
+  }
+  .Rectangle_5 {
+      filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+      position: absolute;
+      overflow: visible;
+      width: 417px;
+      height: 180px;
+      left: 797px;
+      top: 3223px;
+  }
+  #Order_Now_ {
+      filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+      position: absolute;
+      left: 878.5px;
+      top: 3278.5px;
+      overflow: visible;
+      width: 237px;
+      white-space: nowrap;
+      text-align: left;
+      font-family: 'Montserrat', sans-serif;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 42px;
+      color: rgba(255,255,255,1);
+  }
+  #Trees_Image {
+      position: absolute;
+      width: 2304px;
+      height: 700px;
+      left: -183px;
+      top: 3561px;
+      overflow: visible;
+  }
+  #_We_can_turn_the_tide_within_t {
+      position: absolute;
+      left: 128px;
+      top: 3728px;
+      overflow: visible;
+      width: 1665px;
+      white-space: nowrap;
+      text-align: center;
+      font-family: 'Montserrat', sans-serif;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 50px;
+      color: rgba(255,255,255,1);
+  }

@@ -1,0 +1,529 @@
+body, html {
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    overflow-x: hidden;
+}
+
+.mediaViewInfo {
+	--web-view-name: Initiatives – 3;
+	--web-view-id: Initiatives___3;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Initiatives___3;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Initiatives___3 {
+	position: absolute;
+	width: 1920px;
+	height: 3691px;
+	background-color: rgba(234,234,234,1);
+	overflow: hidden;
+	--web-view-name: Initiatives – 3;
+	--web-view-id: Initiatives___3;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Rectangle_14 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1807px;
+	height: 635px;
+	left: 56px;
+	top: 586px;
+}
+.Rectangle_14_y {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1807px;
+	height: 635px;
+	left: 56px;
+	top: 1336px;
+}
+.Rectangle_14_z {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1807px;
+	height: 635px;
+	left: 66px;
+	top: 2092px;
+}
+#Collectr {
+	position: absolute;
+	left: 81px;
+	top: 98px;
+	overflow: visible;
+	width: 360px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Landing_Page.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 90px;
+	color: rgba(0,0,0,1);
+}
+#Contact_Us_ {
+	position: absolute;
+	left: 1223px;
+	top: 140px;
+	overflow: visible;
+	width: 194px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_6 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 261px;
+	height: 113px;
+	left: 1611px;
+	top: 113px;
+}
+#unnamed__2_ {
+	position: absolute;
+	width: 53px;
+	height: 43px;
+	left: 1455px;
+	top: 139px;
+	overflow: visible;
+}
+#Order_Now {
+	position: absolute;
+	left: 1651px;
+	top: 143px;
+	overflow: visible;
+	width: 164px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 29px;
+	color: rgba(255,255,255,1);
+}
+#Initiatives_ {
+	position: absolute;
+	left: 1030px;
+	top: 140px;
+	overflow: visible;
+	width: 169px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Initiatives.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#Twitter_Icon {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 1455px;
+	top: 134px;
+	overflow: visible;
+}
+#Instagram_Icon {
+	position: absolute;
+	width: 54px;
+	height: 54px;
+	left: 1533px;
+	top: 133px;
+	overflow: visible;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 600px;
+	left: 0px;
+	top: 3095px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#About_ {
+	position: absolute;
+	left: 896px;
+	top: 139px;
+	overflow: visible;
+	width: 110px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: About.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#Ok_vegetables__How_would_you_l {
+	position: absolute;
+	left: 83px;
+	top: 386px;
+	overflow: visible;
+	width: 1465px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+#COLLECTR_ {
+	position: absolute;
+	left: 83px;
+	top: 3205px;
+	overflow: visible;
+	width: 244px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(255,255,255,1);
+}
+#_ {
+	position: absolute;
+	left: 83px;
+	top: 3343px;
+	overflow: visible;
+	width: 1px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#_555__555_5555_ {
+	position: absolute;
+	left: 83px;
+	top: 3454px;
+	overflow: visible;
+	width: 243px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#New_York__NY_12345_ {
+	position: absolute;
+	left: 83px;
+	top: 3385px;
+	overflow: visible;
+	width: 339px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#Group_3 {
+	position: absolute;
+	width: 204px;
+	height: 335px;
+	left: 1162px;
+	top: 3205px;
+	overflow: visible;
+}
+#Our_Work_ {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 179px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#About__bh {
+	position: absolute;
+	left: 0px;
+	top: 113px;
+	overflow: visible;
+	width: 110px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: About.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	text-decoration: true;
+}
+#Initiatives__bi {
+	position: absolute;
+	left: 0px;
+	top: 180px;
+	overflow: visible;
+	width: 169px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Initiatives.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	text-decoration: true;
+}
+#Take_Action_ {
+	position: absolute;
+	left: 0px;
+	top: 249px;
+	overflow: visible;
+	width: 205px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	text-decoration: true;
+}
+#Group_4 {
+	position: absolute;
+	width: 171px;
+	height: 335px;
+	left: 1509px;
+	top: 3205px;
+	overflow: visible;
+}
+#Follow_ {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#Twitter_ {
+	position: absolute;
+	left: 0px;
+	top: 113px;
+	overflow: visible;
+	width: 123px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	text-decoration: true;
+}
+#Linkedin_ {
+	position: absolute;
+	left: 0px;
+	top: 180px;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	text-decoration: true;
+}
+#Facebook_ {
+	position: absolute;
+	left: 0px;
+	top: 249px;
+	overflow: visible;
+	width: 172px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	text-decoration: true;
+}
+#ID123_Demo_Street_ {
+	position: absolute;
+	left: 83px;
+	top: 3318px;
+	overflow: visible;
+	width: 287px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#Community_Icon1 {
+	position: absolute;
+	width: 409px;
+	height: 411px;
+	left: 189px;
+	top: 734px;
+	overflow: visible;
+}
+#Community_Icon2 {
+	position: absolute;
+	width: 416px;
+	height: 416px;
+	left: 213px;
+	top: 1485px;
+	overflow: visible;
+}
+#Vehicle_Icon {
+	position: absolute;
+	width: 429px;
+	height: 429px;
+	left: 226px;
+	top: 2227px;
+	overflow: visible;
+}
+#Community_Pool {
+	position: absolute;
+	left: 228px;
+	top: 1376px;
+	overflow: visible;
+	width: 426px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+#Get_your_groceries_from_your_O {
+	position: absolute;
+	left: 960px;
+	top: 734px;
+	overflow: visible;
+	width: 597px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+#Give_your_order__and_it_will_c {
+	position: absolute;
+	left: 960px;
+	top: 2279px;
+	overflow: visible;
+	width: 551px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+#Community_bw {
+	position: absolute;
+	left: 243px;
+	top: 625px;
+	overflow: visible;
+	width: 301px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+#Home_Delivery {
+	position: absolute;
+	left: 255px;
+	top: 2166px;
+	overflow: visible;
+	width: 372px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+#Everyone_gives_their_order_to_ {
+	position: absolute;
+	left: 960px;
+	top: 1431px;
+	overflow: visible;
+	width: 654px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}

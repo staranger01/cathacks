@@ -1,0 +1,572 @@
+body, html {
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    overflow-x: hidden;
+}
+
+.mediaViewInfo {
+	--web-view-name: Initiatives – 2;
+	--web-view-id: Initiatives___2;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Initiatives___2;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Initiatives___2 {
+	position: absolute;
+	width: 1920px;
+	height: 4266px;
+	background-color: rgba(234,234,234,1);
+	overflow: hidden;
+	--web-view-name: Initiatives – 2;
+	--web-view-id: Initiatives___2;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Collectr {
+	position: absolute;
+	left: 81px;
+	top: 98px;
+	overflow: visible;
+	width: 360px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Landing_Page.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 90px;
+	color: rgba(0,0,0,1);
+}
+#Contact_Us_ {
+	position: absolute;
+	left: 1223px;
+	top: 140px;
+	overflow: visible;
+	width: 194px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_6 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 261px;
+	height: 113px;
+	left: 1611px;
+	top: 113px;
+}
+#Order_Now {
+	position: absolute;
+	left: 1651px;
+	top: 143px;
+	overflow: visible;
+	width: 164px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 29px;
+	color: rgba(255,255,255,1);
+}
+#Initiatives_ {
+	position: absolute;
+	left: 1030px;
+	top: 140px;
+	overflow: visible;
+	width: 169px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Initiatives.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#Twitter_Icon {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 1455px;
+	top: 134px;
+	overflow: visible;
+}
+#Instagram_Icon {
+	position: absolute;
+	width: 54px;
+	height: 54px;
+	left: 1533px;
+	top: 133px;
+	overflow: visible;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 600px;
+	left: 0px;
+	top: 3666px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#About_ {
+	position: absolute;
+	left: 896px;
+	top: 139px;
+	overflow: visible;
+	width: 110px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: About.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#What_are_you_looking_for_today {
+	position: absolute;
+	left: 83px;
+	top: 386px;
+	overflow: visible;
+	width: 802px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_13 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1649px;
+	height: 335px;
+	left: 81px;
+	top: 628px;
+}
+.Rectangle_13_ {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1649px;
+	height: 335px;
+	left: 81px;
+	top: 1114px;
+}
+.Rectangle_13_ba {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1649px;
+	height: 335px;
+	left: 81px;
+	top: 1600px;
+}
+.Rectangle_13_bb {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1649px;
+	height: 335px;
+	left: 81px;
+	top: 2086px;
+}
+.Rectangle_13_bc {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1649px;
+	height: 335px;
+	left: 81px;
+	top: 2572px;
+}
+.Rectangle_13_bd {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1649px;
+	height: 335px;
+	left: 81px;
+	top: 2993px;
+}
+#COLLECTR_ {
+	position: absolute;
+	left: 83px;
+	top: 3776px;
+	overflow: visible;
+	width: 244px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(255,255,255,1);
+}
+#_ {
+	position: absolute;
+	left: 83px;
+	top: 3914px;
+	overflow: visible;
+	width: 1px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#_555__555_5555_ {
+	position: absolute;
+	left: 83px;
+	top: 4025px;
+	overflow: visible;
+	width: 243px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#New_York__NY_12345_ {
+	position: absolute;
+	left: 83px;
+	top: 3956px;
+	overflow: visible;
+	width: 339px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#Group_3 {
+	position: absolute;
+	width: 204px;
+	height: 335px;
+	left: 1162px;
+	top: 3776px;
+	overflow: visible;
+}
+#Our_Work_ {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 179px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#About__bk {
+	position: absolute;
+	left: 0px;
+	top: 113px;
+	overflow: visible;
+	width: 110px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: About.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	text-decoration: true;
+}
+#Initiatives__bl {
+	position: absolute;
+	left: 0px;
+	top: 180px;
+	overflow: visible;
+	width: 169px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Initiatives.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	text-decoration: true;
+}
+#Take_Action_ {
+	position: absolute;
+	left: 0px;
+	top: 249px;
+	overflow: visible;
+	width: 205px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	text-decoration: true;
+}
+#Group_4 {
+	position: absolute;
+	width: 171px;
+	height: 335px;
+	left: 1509px;
+	top: 3776px;
+	overflow: visible;
+}
+#Follow_ {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#Twitter_ {
+	position: absolute;
+	left: 0px;
+	top: 113px;
+	overflow: visible;
+	width: 123px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	text-decoration: true;
+}
+#Linkedin_ {
+	position: absolute;
+	left: 0px;
+	top: 180px;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	text-decoration: true;
+}
+#Facebook_ {
+	position: absolute;
+	left: 0px;
+	top: 249px;
+	overflow: visible;
+	width: 172px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	text-decoration: true;
+}
+#ID123_Demo_Street_ {
+	position: absolute;
+	left: 83px;
+	top: 3889px;
+	overflow: visible;
+	width: 287px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#Food_Icon {
+	position: absolute;
+	width: 226px;
+	height: 226px;
+	left: 170px;
+	top: 674px;
+	overflow: visible;
+}
+#Vegetables_1000__found_in_your {
+	position: absolute;
+	left: 434px;
+	top: 717px;
+	overflow: visible;
+	width: 616px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+#Soap_Icon {
+	position: absolute;
+	width: 201px;
+	height: 201px;
+	left: 170px;
+	top: 2144px;
+	overflow: visible;
+}
+#Non_Perishables_1000__found_in {
+	position: absolute;
+	left: 434px;
+	top: 1685px;
+	overflow: visible;
+	width: 616px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+#Canned_Food_Icon {
+	position: absolute;
+	width: 219px;
+	height: 219px;
+	left: 161px;
+	top: 1649px;
+	overflow: visible;
+}
+#Hygienic_Products_1000__found_ {
+	position: absolute;
+	left: 434px;
+	top: 1206px;
+	overflow: visible;
+	width: 616px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+#Toilet_Icon {
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	left: 170px;
+	top: 1182px;
+	overflow: visible;
+}
+#Cleaning_Products_1000__found_ {
+	position: absolute;
+	left: 434px;
+	top: 2162px;
+	overflow: visible;
+	width: 616px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+#Heart_Icon {
+	position: absolute;
+	width: 226px;
+	height: 226px;
+	left: 170px;
+	top: 2618px;
+	overflow: visible;
+}
+#Donations_Any_donation_helps__ {
+	position: absolute;
+	left: 440px;
+	top: 2661px;
+	overflow: visible;
+	width: 500px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+#Coin_Icon {
+	position: absolute;
+	width: 209px;
+	height: 209px;
+	left: 161px;
+	top: 3058px;
+	overflow: visible;
+}
+#Rewards_Redeem_and_Earn_COVID_ {
+	position: absolute;
+	left: 440px;
+	top: 3084px;
+	overflow: visible;
+	width: 791px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}

@@ -1,0 +1,588 @@
+body, html {
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    overflow-x: hidden;
+}
+
+.mediaViewInfo {
+	--web-view-name: Initiatives;
+	--web-view-id: Initiatives;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Initiatives;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Initiatives {
+	position: absolute;
+	width: 1920px;
+	height: 2795px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Initiatives;
+	--web-view-id: Initiatives;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Rectangle_29 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 847px;
+	height: 307px;
+	left: 546px;
+	top: 1851px;
+}
+#Collectr {
+	position: absolute;
+	left: 83px;
+	top: 88px;
+	overflow: visible;
+	width: 439px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 110px;
+	color: rgba(255,255,255,1);
+}
+#Collectr_z {
+	position: absolute;
+	left: 83px;
+	top: 88px;
+	overflow: visible;
+	width: 439px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Landing_Page.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 110px;
+	color: rgba(0,0,0,1);
+}
+#About_ {
+	position: absolute;
+	left: 151px;
+	top: 2321px;
+	overflow: visible;
+	width: 110px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(205,192,192,0.541);
+}
+#Contact_Us_ {
+	position: absolute;
+	left: 1223px;
+	top: 140px;
+	overflow: visible;
+	width: 194px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Initiatives___1.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_6 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 261px;
+	height: 113px;
+	left: 1611px;
+	top: 113px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Initiatives___2.html;
+	cursor: pointer;
+}
+#Order_Now {
+	position: absolute;
+	left: 1651px;
+	top: 143px;
+	overflow: visible;
+	width: 164px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Initiatives___2.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 29px;
+	color: rgba(255,255,255,1);
+}
+#Initiatives_ {
+	position: absolute;
+	left: 1030px;
+	top: 140px;
+	overflow: visible;
+	width: 169px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#Current_Initiatives {
+	position: absolute;
+	left: 461px;
+	top: 467px;
+	overflow: visible;
+	width: 1000px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 108px;
+	color: rgba(0,0,0,1);
+}
+#Twitter_Icon {
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 1455px;
+	top: 134px;
+	overflow: visible;
+}
+#Instagram_Icon {
+	position: absolute;
+	width: 54px;
+	height: 54px;
+	left: 1533px;
+	top: 133px;
+	overflow: visible;
+}
+#Group_1 {
+	position: absolute;
+	width: 804px;
+	height: 984px;
+	left: 83px;
+	top: 787px;
+	overflow: visible;
+}
+#Grapes_Image {
+	position: absolute;
+	width: 804px;
+	height: 536px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#ID04_04_20_ {
+	position: absolute;
+	left: 288px;
+	top: 568px;
+	overflow: visible;
+	width: 161px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#Food_For_Everyone {
+	position: absolute;
+	left: 7px;
+	top: 654px;
+	overflow: visible;
+	width: 724px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 75px;
+	color: rgba(0,0,0,1);
+}
+#Giving_food_to_people_everywhe {
+	position: absolute;
+	left: 70px;
+	top: 812px;
+	overflow: visible;
+	width: 598px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#Read_More_ {
+	position: absolute;
+	left: 273px;
+	top: 898px;
+	overflow: visible;
+	width: 191px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+	text-decoration: underline;
+}
+#Group_2 {
+	position: absolute;
+	width: 804px;
+	height: 984px;
+	left: 1048px;
+	top: 787px;
+	overflow: visible;
+}
+#Mask_Image {
+	position: absolute;
+	width: 804px;
+	height: 536px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#ID04_04_20__bh {
+	position: absolute;
+	left: 289px;
+	top: 568px;
+	overflow: visible;
+	width: 161px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#Donating_Supplies {
+	position: absolute;
+	left: 11px;
+	top: 654px;
+	overflow: visible;
+	width: 716px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 75px;
+	color: rgba(0,0,0,1);
+}
+#Donating_medical_supplies_to_w {
+	position: absolute;
+	left: 32px;
+	top: 812px;
+	overflow: visible;
+	width: 673px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#Read_More__bk {
+	position: absolute;
+	left: 274px;
+	top: 898px;
+	overflow: visible;
+	width: 191px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+	text-decoration: underline;
+}
+#Take_Action {
+	position: absolute;
+	left: 633px;
+	top: 1929px;
+	overflow: visible;
+	width: 656px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 108px;
+	color: rgba(0,0,0,1);
+	text-decoration: true;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 600px;
+	left: 0px;
+	top: 2195px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#About__bn {
+	position: absolute;
+	left: 896px;
+	top: 139px;
+	overflow: visible;
+	width: 110px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: About.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#COLLECTR_ {
+	position: absolute;
+	left: 83px;
+	top: 2297px;
+	overflow: visible;
+	width: 244px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(255,255,255,1);
+}
+#_ {
+	position: absolute;
+	left: 83px;
+	top: 2440px;
+	overflow: visible;
+	width: 1px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#_555__555_5555_ {
+	position: absolute;
+	left: 83px;
+	top: 2551px;
+	overflow: visible;
+	width: 243px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#New_York__NY_12345_ {
+	position: absolute;
+	left: 83px;
+	top: 2482px;
+	overflow: visible;
+	width: 339px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#ID123_Demo_Street_ {
+	position: absolute;
+	left: 83px;
+	top: 2415px;
+	overflow: visible;
+	width: 287px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#Group_3 {
+	position: absolute;
+	width: 204px;
+	height: 335px;
+	left: 1162px;
+	top: 2302px;
+	overflow: visible;
+}
+#Our_Work_ {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 179px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#About__bv {
+	position: absolute;
+	left: 0px;
+	top: 113px;
+	overflow: visible;
+	width: 110px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: About.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	text-decoration: true;
+}
+#Initiatives__bw {
+	position: absolute;
+	left: 0px;
+	top: 180px;
+	overflow: visible;
+	width: 169px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	text-decoration: true;
+}
+#Take_Action_ {
+	position: absolute;
+	left: 0px;
+	top: 249px;
+	overflow: visible;
+	width: 205px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	text-decoration: true;
+}
+#Group_4 {
+	position: absolute;
+	width: 171px;
+	height: 335px;
+	left: 1509px;
+	top: 2302px;
+	overflow: visible;
+}
+#Follow_ {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#Twitter_ {
+	position: absolute;
+	left: 0px;
+	top: 113px;
+	overflow: visible;
+	width: 123px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	text-decoration: true;
+}
+#Linkedin_ {
+	position: absolute;
+	left: 0px;
+	top: 180px;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	text-decoration: true;
+}
+#Facebook_ {
+	position: absolute;
+	left: 0px;
+	top: 249px;
+	overflow: visible;
+	width: 172px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	text-decoration: true;
+}
